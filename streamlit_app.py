@@ -1,5 +1,5 @@
 import streamlit
-python -m ensurepip --upgrade
+
 streamlit.title("My Parents New Healthy Diner")
 
 streamlit.header('Breakfast Menu')
